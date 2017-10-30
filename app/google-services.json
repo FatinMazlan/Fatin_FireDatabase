@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "163100974797",
+    "firebase_url": "https://fatinfiredatabase.firebaseio.com",
+    "project_id": "fatinfiredatabase",
+    "storage_bucket": "fatinfiredatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163100974797:android:77b9d16b64e2dca0",
+        "android_client_info": {
+          "package_name": "com.example.fatin.fatin_firedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163100974797-2off1808kbq1s3sbjgi1nu0ptt7kke1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fatin.fatin_firedatabase",
+            "certificate_hash": "7b7941a2ed5605ec27f1d54de0d6a3ed4663ee7d"
+          }
+        },
+        {
+          "client_id": "163100974797-5jslta8cevhpm7qsh2kmg508f4dibd3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdMiYrM80ehp46pXzd6gPKfB9q8crwe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163100974797-5jslta8cevhpm7qsh2kmg508f4dibd3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
